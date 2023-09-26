@@ -1,0 +1,1000 @@
+    <Cell ss:StyleID="s142"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">±0.15</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:Index="12" ss:StyleID="s63"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s87"><Data ss:Type="Number">1.2</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">±0.05</Data></Cell>
+    <Cell ss:StyleID="s142"><Data ss:Type="Number">8.9</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">±0.15</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:Index="12" ss:StyleID="s63"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s87"><Data ss:Type="Number">1.4</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">±0.05</Data></Cell>
+    <Cell ss:StyleID="s142"><Data ss:Type="Number">8.8000000000000007</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">±0.15</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:Index="12" ss:StyleID="s63"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="17.25">
+    <Cell ss:Index="2" ss:StyleID="s87"><Data ss:Type="Number">1.6</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">±0.05</Data></Cell>
+    <Cell ss:StyleID="s142"><Data ss:Type="Number">8.6999999999999993</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">±0.15</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:Index="12" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s50"/>
+    <Cell ss:StyleID="s50"/>
+    <Cell ss:StyleID="s50"/>
+    <Cell ss:StyleID="s50"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s87"><Data ss:Type="Number">1.8</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">±0.05</Data></Cell>
+    <Cell ss:StyleID="s142"><Data ss:Type="Number">8.6300000000000008</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">±0.15</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:Index="12" ss:StyleID="s63"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s87"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">±0.05</Data></Cell>
+    <Cell ss:StyleID="s142"><Data ss:Type="Number">8.5</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">±0.15</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:Index="12" ss:StyleID="s63"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s87"><Data ss:Type="Number">2.5</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">±0.05</Data></Cell>
+    <Cell ss:StyleID="s142"><Data ss:Type="Number">8.3000000000000007</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">±0.15</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:Index="12" ss:StyleID="s63"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s87"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">±0.05</Data></Cell>
+    <Cell ss:StyleID="s142"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">±0.15</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s87"><Data ss:Type="Number">3.5</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">±0.05</Data></Cell>
+    <Cell ss:StyleID="s142"><Data ss:Type="Number">7.66</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">±0.15</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s50"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s50"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s50"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s50"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s87"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">±0.05</Data></Cell>
+    <Cell ss:StyleID="s142"><Data ss:Type="Number">7.4</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">±0.15</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s66"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s87"><Data ss:Type="Number">4.5</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">±0.05</Data></Cell>
+    <Cell ss:StyleID="s142"><Data ss:Type="Number">7.09</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">±0.15</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s66"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s87"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">±0.05</Data></Cell>
+    <Cell ss:StyleID="s142"><Data ss:Type="Number">6.8</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">±0.15</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s87"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">±0.05</Data></Cell>
+    <Cell ss:StyleID="s142"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">±0.15</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s50"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s50"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s50"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s50"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">热管直径（mm）</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">热管厚度（mm）</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">厚度公差（mm）</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">热管宽度（mm）</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">宽度公差（mm）</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s66"/>
+   </Row>
+   <Row>
+    <Cell ss:MergeDown="15" ss:StyleID="s85"><Data ss:Type="String">φ8</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="Number">0.8</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">±0.05</Data></Cell>
+    <Cell ss:StyleID="s142"><Data ss:Type="Number">12.35</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">±0.15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s87"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">±0.05</Data></Cell>
+    <Cell ss:StyleID="s142"><Data ss:Type="Number">12.25</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">±0.15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s87"><Data ss:Type="Number">1.2</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">±0.05</Data></Cell>
+    <Cell ss:StyleID="s142"><Data ss:Type="Number">12.15</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">±0.15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s87"><Data ss:Type="Number">1.4</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">±0.05</Data></Cell>
+    <Cell ss:StyleID="s142"><Data ss:Type="Number">12.07</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">±0.15</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s50"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s50"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s50"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s50"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s87"><Data ss:Type="Number">1.6</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">±0.05</Data></Cell>
+    <Cell ss:StyleID="s142"><Data ss:Type="Number">11.98</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">±0.15</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s50"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s50"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s50"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s50"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s87"><Data ss:Type="Number">1.8</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">±0.05</Data></Cell>
+    <Cell ss:StyleID="s142"><Data ss:Type="Number">11.9</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">±0.15</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s78"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s66"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s87"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">±0.05</Data></Cell>
+    <Cell ss:StyleID="s142"><Data ss:Type="Number">11.7</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">±0.15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s87"><Data ss:Type="Number">2.5</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">±0.05</Data></Cell>
+    <Cell ss:StyleID="s142"><Data ss:Type="Number">11.39</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">±0.15</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s64"/>
+    <Cell ss:StyleID="s50"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s50"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s50"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s50"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s87"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">±0.05</Data></Cell>
+    <Cell ss:StyleID="s142"><Data ss:Type="Number">11.12</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">±0.15</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s78"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s66"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s87"><Data ss:Type="Number">3.5</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">±0.05</Data></Cell>
+    <Cell ss:StyleID="s142"><Data ss:Type="Number">10.89</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">±0.15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s87"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">±0.05</Data></Cell>
+    <Cell ss:StyleID="s142"><Data ss:Type="Number">10.62</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">±0.15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s87"><Data ss:Type="Number">4.5</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">±0.05</Data></Cell>
+    <Cell ss:StyleID="s142"><Data ss:Type="Number">10.37</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">±0.15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s87"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">±0.05</Data></Cell>
+    <Cell ss:StyleID="s142"><Data ss:Type="Number">10.1</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">±0.15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s87"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">±0.05</Data></Cell>
+    <Cell ss:StyleID="s142"><Data ss:Type="Number">9.5399999999999991</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">±0.15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s87"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">±0.05</Data></Cell>
+    <Cell ss:StyleID="s142"><Data ss:Type="Number">8.8000000000000007</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">±0.15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s87"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="String">±0.05</Data></Cell>
+    <Cell ss:StyleID="s142"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">±0.15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s77"/>
+    <Cell ss:StyleID="s77"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>15</ActiveRow>
+     <ActiveCol>3</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="热管段差设计基线">
+  <Table ss:ExpandedColumnCount="9" ss:ExpandedRowCount="24" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s46" ss:DefaultColumnWidth="54"
+   ss:DefaultRowHeight="14.25">
+   <Row ss:Height="29.25">
+    <Cell ss:MergeAcross="8" ss:StyleID="m933346728"><Data ss:Type="String">热管段差设计基线</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="8" ss:MergeDown="18" ss:StyleID="m933346748"/>
+   </Row>
+   <Row ss:Index="21" ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="8" ss:MergeDown="3" ss:StyleID="m933346768"><ss:Data
+      ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40">    热管<Font
+       html:Color="#0000FF">段差过度段厚度t</Font><Font>以及</Font><Font html:Color="#0000FF">段差半径R</Font><Font>均可设计为不管控参数或参考数值，在不干涉情况下，建议</Font><Font
+       html:Color="#0000FF">段差过度段设计厚度t</Font><Font>大于热管加热段/冷凝段厚度。</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Span="2"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>31</ActiveRow>
+     <ActiveCol>10</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="热管折弯角度与折弯半径设计参照表">
+  <Table ss:ExpandedColumnCount="30" ss:ExpandedRowCount="128" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="39.75" ss:DefaultRowHeight="17.25">
+   <Column ss:AutoFitWidth="0" ss:Width="89.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="87.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="93.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="120"/>
+   <Column ss:Index="6" ss:Hidden="1" ss:AutoFitWidth="0" ss:Width="74.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="97.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="90"/>
+   <Column ss:AutoFitWidth="0" ss:Width="96"/>
+   <Column ss:AutoFitWidth="0" ss:Width="123.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="71.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="78"/>
+   <Column ss:AutoFitWidth="0" ss:Width="94.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="33.75">
+    <Cell ss:MergeAcross="3" ss:StyleID="s367"><Data ss:Type="String">热管折弯角度与折弯半径参照表</Data></Cell>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s55"/>
+    <Cell ss:StyleID="s55"/>
+    <Cell ss:StyleID="s55"/>
+    <Cell ss:StyleID="s55"/>
+    <Cell ss:StyleID="s56"/>
+    <Cell ss:StyleID="s43"/>
+    <Cell ss:StyleID="s43"/>
+    <Cell ss:StyleID="s43"/>
+    <Cell ss:StyleID="s43"/>
+    <Cell ss:StyleID="s43"/>
+    <Cell ss:StyleID="s43"/>
+    <Cell ss:StyleID="s44"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">热管直径（mm）</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">热管厚度（mm）</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">最小折弯角度</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">最小折弯半径（mm）</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s36"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:MergeDown="4" ss:StyleID="s85"><Data ss:Type="String">φ2</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="Number">0.4</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">90°</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s28"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s36"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:Index="2" ss:StyleID="s87"><Data ss:Type="Number">0.5</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">90°</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s28"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s36"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:Index="2" ss:StyleID="s87"><Data ss:Type="Number">0.6</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">90°</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s28"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s36"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:Index="2" ss:StyleID="s87"><Data ss:Type="Number">0.8</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">90°</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s28"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s36"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:Index="2" ss:StyleID="s87"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">90°</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s28"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s36"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s161"/>
+    <Cell ss:StyleID="s162"/>
+    <Cell ss:StyleID="s161"/>
+    <Cell ss:StyleID="s161"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s28"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s36"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">热管直径（mm）</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">热管厚度（mm）</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">最小折弯角度</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">最小折弯半径（mm）</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s36"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:MergeDown="4" ss:StyleID="s85"><Data ss:Type="String">φ3</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="Number">0.4</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">90°</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="Number">18</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s28"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s36"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:Index="2" ss:StyleID="s87"><Data ss:Type="Number">0.5</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">90°</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="Number">18</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s28"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s36"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:Index="2" ss:StyleID="s87"><Data ss:Type="Number">0.6</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">90°</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="Number">18</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s28"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s36"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:Index="2" ss:StyleID="s87"><Data ss:Type="Number">0.8</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">90°</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s28"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s36"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:Index="2" ss:StyleID="s87"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">90°</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s28"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s36"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s161"/>
+    <Cell ss:StyleID="s162"/>
+    <Cell ss:StyleID="s161"/>
+    <Cell ss:StyleID="s161"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s28"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s36"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s85"><Data ss:Type="String">热管直径（mm）</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">热管厚度（mm）</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">最小折弯角度</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">最小折弯半径（mm）</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+    <Cell ss:StyleID="s84"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s36"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:MergeDown="4" ss:StyleID="s85"><Data ss:Type="String">φ4</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="Number">0.4</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">90°</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="Number">24</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s28"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s36"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:Index="2" ss:StyleID="s87"><Data ss:Type="Number">0.5</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">90°</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="Number">24</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s28"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s36"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:Index="2" ss:StyleID="s87"><Data ss:Type="Number">0.6</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">90°</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="Number">24</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s28"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s36"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:Index="2" ss:StyleID="s87"><Data ss:Type="Number">0.8</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">90°</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s89"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s28"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s36"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
