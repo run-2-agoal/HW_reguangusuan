@@ -1,0 +1,1000 @@
+    <Cell ss:Index="2" ss:MergeAcross="1" ss:StyleID="m933349412"/>
+    <Cell ss:StyleID="s178"/>
+    <Cell ss:MergeAcross="2" ss:StyleID="m933349432"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="m933349452"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:Index="2" ss:MergeAcross="1" ss:StyleID="m933349064"/>
+    <Cell ss:StyleID="s178"/>
+    <Cell ss:MergeAcross="2" ss:StyleID="m933349084"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="m933349104"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:Index="2" ss:MergeAcross="1" ss:StyleID="m933343508"/>
+    <Cell ss:StyleID="s178"/>
+    <Cell ss:MergeAcross="2" ss:StyleID="m933343528"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="m933343548"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:Index="2" ss:MergeAcross="1" ss:StyleID="m933343568"/>
+    <Cell ss:StyleID="s178"/>
+    <Cell ss:MergeAcross="2" ss:StyleID="m933349024"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="m933349044"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:Index="2" ss:MergeAcross="1" ss:StyleID="m933343448"/>
+    <Cell ss:StyleID="s178"/>
+    <Cell ss:MergeAcross="2" ss:StyleID="m933343468"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="m933343488"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Zoom>115</Zoom>
+   <Selected/>
+   <DoNotDisplayGridlines/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>11</ActiveRow>
+     <ActiveCol>14</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="使用说明">
+  <Table ss:ExpandedColumnCount="14" ss:ExpandedRowCount="89" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s179" ss:DefaultColumnWidth="54"
+   ss:DefaultRowHeight="14.25">
+   <Column ss:StyleID="s179" ss:AutoFitWidth="0" ss:Width="51.75" ss:Span="12"/>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:MergeAcross="12" ss:StyleID="m933341808"><Data ss:Type="String">用途和适用范围</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s180">
+    <Cell ss:MergeAcross="12" ss:StyleID="m933341828"><Data ss:Type="String">1. 辅助热工程师在热管布局初期快速评估热管Qmax、宽度、成本以及吸收公差能力等参数。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s180">
+    <Cell ss:MergeAcross="12" ss:StyleID="m933341848"><Data ss:Type="String">2. 辅助热设计工程师对设计OK的热管进行较准。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s180">
+    <Cell ss:MergeAcross="12" ss:StyleID="m933341868"><Data ss:Type="String">3. 辅助热设计工程师针对不同的应用场景进行合理热管设计。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s180">
+    <Cell ss:MergeAcross="12" ss:StyleID="m933341888"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#0000FF">4. 结果中输出的常规热管性能或设计参数均为</Font><B><Font
+        html:Color="#993300">烧结型</Font></B><Font html:Color="#0000FF">热管所对应的参数(打扁厚度&gt;1.0mm)。</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s181"/>
+    <Cell ss:StyleID="s182"/>
+    <Cell ss:StyleID="s182"/>
+    <Cell ss:StyleID="s182"/>
+    <Cell ss:StyleID="s182"/>
+    <Cell ss:StyleID="s182"/>
+    <Cell ss:StyleID="s182"/>
+    <Cell ss:StyleID="s182"/>
+    <Cell ss:StyleID="s182"/>
+    <Cell ss:StyleID="s182"/>
+    <Cell ss:StyleID="s182"/>
+    <Cell ss:StyleID="s182"/>
+    <Cell ss:StyleID="s183"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:MergeAcross="12" ss:StyleID="m933346400"><Data ss:Type="String">表格区域说明</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:MergeAcross="6" ss:MergeDown="14" ss:StyleID="s312"/>
+    <Cell ss:MergeAcross="5" ss:StyleID="m933341580"><Data ss:Type="String">输入区域</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:Index="8" ss:MergeAcross="5" ss:MergeDown="10" ss:StyleID="m933341600"><ss:Data
+      ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><U><Font
+         html:Color="#0000FF">热管直径：</Font></U></B><Font html:Color="#000000">选择热管直径。列举常用的4种热管直径，对于其他直径需求请联系惠晓卫或供应商评估。</Font><B><U><Font
+         html:Color="#0000FF">&#10;热管厚度</Font></U></B><Font html:Color="#0000FF">：</Font><Font>选择热管厚度。列举常用和典型的厚度，对于其他厚度需求，可选取相邻厚度线性评估。&#10;</Font><B><U><Font
+         html:Color="#0000FF">热管长度</Font></U><Font html:Color="#0000FF">：</Font></B><Font>选择热管长度范围。表中以50mm为一个阈值。目前普通热管水平长度建议不超过300mm，抗重力热管不超过250mm，而在超薄管完全抗重力应用时，建议不超过200mm。&#10;</Font><B><U><Font
+         html:Color="#0000FF">热管折弯次数</Font></U><Font>：</Font></B><Font>选择热管折弯次数。0次表示为圆/扁平直管，建议折弯次数不超过8次。段差不算在折弯次数里面。&#10;</Font><B><U><Font
+         html:Color="#0000FF">段差设计高度：</Font></U></B><Font>输出热管段差设计高度，目前建议段差高度不大于15mm。&#10;</Font><B><U><Font
+         html:Color="#0000FF">应用场景类型</Font></U><Font html:Color="#0000FF">：</Font></B><Font>选择热管工作场景类型。应用场景分为水平，抗重力，顺重力应用。三者之间</Font><Font
+       html:Color="#0000FF">顺重力Qmax＞水平Qmax＞逆重力Qmax</Font><Font>。顺重力sinθ值中，θ值范围0~90°，完全顺重力时θ=90°，Qmax值最大。逆重力sinθ值中，θ值范围0~-90°，完全逆重力时即θ=-90°，Qmax值最小。水平应用时，θ=0。&#10;</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18" ss:Span="9"/>
+   <Row ss:Index="20" ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:Index="8" ss:StyleID="s186"><Data ss:Type="String">输出区域 </Data></Cell>
+    <Cell ss:StyleID="s187"/>
+    <Cell ss:StyleID="s187"/>
+    <Cell ss:StyleID="s187"/>
+    <Cell ss:StyleID="s187"/>
+    <Cell ss:StyleID="s188"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21.75">
+    <Cell ss:Index="8" ss:MergeAcross="5" ss:MergeDown="1" ss:StyleID="m933341620"><Data
+      ss:Type="String">输出对应条件和应用场景下热管Qmax、宽度、成本、段差延伸段最小设计长度、无效段及有效段长度。&#10;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21.75"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s189"/>
+    <Cell ss:StyleID="s190"/>
+    <Cell ss:StyleID="s190"/>
+    <Cell ss:StyleID="s190"/>
+    <Cell ss:StyleID="s190"/>
+    <Cell ss:StyleID="s190"/>
+    <Cell ss:StyleID="s190"/>
+    <Cell ss:StyleID="s184"/>
+    <Cell ss:StyleID="s184"/>
+    <Cell ss:StyleID="s184"/>
+    <Cell ss:StyleID="s184"/>
+    <Cell ss:StyleID="s184"/>
+    <Cell ss:StyleID="s185"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="31.5">
+    <Cell ss:MergeAcross="6" ss:StyleID="s323"><Data ss:Type="String">补充说明</Data></Cell>
+    <Cell ss:StyleID="s184"/>
+    <Cell ss:StyleID="s184"/>
+    <Cell ss:StyleID="s184"/>
+    <Cell ss:StyleID="s184"/>
+    <Cell ss:StyleID="s184"/>
+    <Cell ss:StyleID="s185"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="26.25">
+    <Cell ss:MergeAcross="12" ss:MergeDown="5" ss:StyleID="m933341660"><ss:Data
+      ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Color="#0000FF">1.热管有效端和无效端</Font><Font html:Color="#3366FF">：</Font></B><Font>无效端和有效端均为传热死区,热管布局时，不能和热源接触，见下示意图。均温设计时，热管无效段/有效段必须超过热源区域，如很难避开时，选择热管有效端和热源接触，因为有效端死区较短，对性能的影响较小。</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="26.25" ss:Span="4"/>
+   <Row ss:Index="31" ss:AutoFitHeight="0" ss:Height="26.25">
+    <Cell ss:MergeAcross="12" ss:MergeDown="7" ss:StyleID="s305"><ss:Data
+      ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Color="#0000FF">2.热管折弯角度/折弯半径设计参照表：</Font></B><Font>热管折弯工序在退火工序后，铜管为&quot;软管&quot;,因此在折弯时，转弯内角易产生褶皱，影响热管性能和外观，因此各个厂家对不同尺寸热管均有一个建议最小的折弯角度/折弯半径，如下图示。但如</Font><B>水冷管</B><Font>折弯时，此折弯铜管一般为&quot;硬管&quot;,且管壁较厚，可折弯性较强，可设计1.5~2倍直径的折弯半径。</Font><Font
+       html:Color="#3366FF">&#10; </Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="26.25" ss:Span="5"/>
+   <Row ss:Index="38" ss:AutoFitHeight="0" ss:Height="26.25">
+    <Cell ss:Index="14" ss:StyleID="s191"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="26.25">
+    <Cell ss:MergeAcross="12" ss:MergeDown="4" ss:StyleID="m933341500"><ss:Data
+      ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Color="#0000FF">3.热管Qmax能力参照表（水平）</Font><Font html:Color="#3366FF">：</Font></B><Font>热管同一规格尺寸，各个厂家之间在内部参数设计上会有一定的差异，另一方面同一厂家同批热管性能也是在一定范围内波动。因此列举Qmax能力参照表为TOP 5厂家平均能力。当设计需求Qmax超过设计要求时，请联系惠晓卫或热管厂家进行性能评估。如下图，为水平应用示意图。</Font><Font
+       html:Color="#3366FF">&#10;</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s191"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="26.25">
+    <Cell ss:Index="14" ss:StyleID="s191"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="26.25">
+    <Cell ss:Index="14" ss:StyleID="s191"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="26.25">
+    <Cell ss:Index="14" ss:StyleID="s191"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="29.25">
+    <Cell ss:Index="14" ss:StyleID="s191"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="26.25">
+    <Cell ss:MergeAcross="12" ss:MergeDown="7" ss:StyleID="s311"><ss:Data
+      ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Color="#0000FF">5.热管Qmax能力参照表（完全抗重力）</Font><Font html:Color="#3366FF">：</Font></B><Font>热管完全垂直应用，其Qmax性能是所有其他应用场景下表现最低的，也是最严苛的应用环境。从目前来讲，厂商会在设计参数时，采用增强毛细的方法提升抗重力Qmax。因此当确认此热管抗重力应用时，</Font><B>热设计工程师需要在规格书中提出以及标明其重力方向，</B><Font>如下图，为逆重力应用示意图。&#10;&#10;</Font><Font
+       html:Color="#3366FF">&#10;</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s191"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="26.25">
+    <Cell ss:Index="14" ss:StyleID="s191"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="26.25">
+    <Cell ss:Index="14" ss:StyleID="s191"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="26.25">
+    <Cell ss:Index="14" ss:StyleID="s191"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="26.25">
+    <Cell ss:Index="14" ss:StyleID="s191"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="26.25">
+    <Cell ss:Index="14" ss:StyleID="s191"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="26.25">
+    <Cell ss:Index="14" ss:StyleID="s191"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="26.25">
+    <Cell ss:Index="14" ss:StyleID="s191"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="29.25">
+    <Cell ss:MergeAcross="12" ss:MergeDown="9" ss:StyleID="s311"><ss:Data
+      ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Color="#0000FF">6.热管如下两种应用场景：1.热管垂直，如下左图，热源处于热管中心位置：</Font></B><Font>热管能力评估时可以作为两根热管评估其性能，上半部分作为顺重力热管评估，下半部分作为逆重力热管评估。</Font><Font
+       html:Color="#3366FF">&#10;                                        </Font><B><Font
+        html:Color="#3366FF"> </Font><Font html:Color="#0000FF">2.热管水平，如下右图，热源处于热管中心位置：</Font></B><Font>此热管能力评估时可以作为两根热管评估其性能，左半部分作为水平热管评估，右半部分也作为水平热管评估。</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s191"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="29.25">
+    <Cell ss:Index="14" ss:StyleID="s191"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="29.25">
+    <Cell ss:Index="14" ss:StyleID="s191"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="29.25">
+    <Cell ss:Index="14" ss:StyleID="s191"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="29.25">
+    <Cell ss:Index="14" ss:StyleID="s191"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="29.25">
+    <Cell ss:Index="14" ss:StyleID="s191"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="29.25">
+    <Cell ss:Index="14" ss:StyleID="s191"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="29.25">
+    <Cell ss:Index="14" ss:StyleID="s191"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="29.25">
+    <Cell ss:Index="14" ss:StyleID="s191"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21.75">
+    <Cell ss:Index="14" ss:StyleID="s191"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="50.0625" ss:Span="1"/>
+   <Row ss:Index="64" ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+    <Cell ss:StyleID="s192"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <FitToPage/>
+   <Print>
+    <FitHeight>0</FitHeight>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <Scale>64</Scale>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Zoom>130</Zoom>
+   <DoNotDisplayGridlines/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>82</ActiveRow>
+     <ActiveCol>3</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="热管设计选型表">
+  <Table ss:ExpandedColumnCount="14" ss:ExpandedRowCount="72" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s93" ss:DefaultColumnWidth="54"
+   ss:DefaultRowHeight="14.25">
+   <Column ss:StyleID="s93" ss:AutoFitWidth="0" ss:Width="127.5"/>
+   <Column ss:StyleID="s93" ss:AutoFitWidth="0" ss:Width="129"/>
+   <Column ss:StyleID="s101" ss:AutoFitWidth="0" ss:Width="41.25"/>
+   <Column ss:StyleID="s93" ss:AutoFitWidth="0" ss:Width="218.25"/>
+   <Column ss:StyleID="s93" ss:AutoFitWidth="0" ss:Width="41.25"/>
+   <Column ss:StyleID="s93" ss:AutoFitWidth="0" ss:Width="57.75"/>
+   <Column ss:StyleID="s94" ss:AutoFitWidth="0"/>
+   <Column ss:StyleID="s93" ss:AutoFitWidth="0" ss:Width="40.5"/>
+   <Column ss:StyleID="s93" ss:AutoFitWidth="0" ss:Width="53.25"/>
+   <Row ss:AutoFitHeight="0" ss:Height="36.75">
+    <Cell ss:MergeAcross="3" ss:StyleID="s341"><Data ss:Type="String">热管设计选型表</Data></Cell>
+    <Cell ss:StyleID="s92"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s132"/>
+    <Cell ss:StyleID="s132"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24">
+    <Cell ss:StyleID="s95"><Data ss:Type="String">输入项目</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">输入值</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">单位</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">备注</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s99"><Data ss:Type="String">热管直径</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">D6</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String">mm</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">请选择</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s99"><Data ss:Type="String">热管厚度</Data></Cell>
+    <Cell ss:StyleID="s149"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String">mm</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">请选择</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:StyleID="s99"><Data ss:Type="String">热管长度</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">150≥L＞100</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String">mm</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">请选择</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="22.5">
+    <Cell ss:StyleID="s99"><Data ss:Type="String">折弯次数</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String">次</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">请选择，限定折弯次数不大于6次</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="22.5">
+    <Cell ss:StyleID="s99"><Data ss:Type="String">段差设计高度</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String">mm</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">请输入，限定不大于15mm</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s99"><Data ss:Type="String">应用场景类型</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">完全逆重力</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String">/</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">请选择，二种典型场景</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:Index="5" ss:StyleID="s98"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s102"><Data ss:Type="String">输出项目</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">输出结果</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">单位</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="String">备注</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="34.5">
+    <Cell ss:StyleID="s106"><Data ss:Type="String">热管Qmax </Data></Cell>
+    <Cell ss:StyleID="s110"
+     ss:Formula="=IF(R[-3]C=&quot;水平&quot;,R[33]C,IF(R[-3]C=&quot;完全逆重力&quot;,R[34]C,IF(AND(R[-3]C=&quot;完全顺重力&quot;,R[-5]C&gt;6),&quot;折弯次数过多，重新评估&quot;,IF(AND(R[-3]C=&quot;完全顺重力&quot;,R[-4]C&gt;15),&quot;段差高度过大，重新评估&quot;,R[33]C*1.25))))"><Data
+      ss:Type="Number">8.3000000000000007</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">W</Data></Cell>
+    <Cell ss:StyleID="s129"><Data ss:Type="String">输出“#N/A”时，请重新评估热管应用长度或厚度。</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s134"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s106"><Data ss:Type="String">热管对应宽度</Data></Cell>
+    <Cell ss:StyleID="s111"
+     ss:Formula="=IF(R[-9]C=&quot;D5&quot;,VLOOKUP(R[-8]C,热管宽度与厚度对应参照表!R[12]C:R[26]C[2],3,FALSE),IF(R[-9]C=&quot;D6&quot;,VLOOKUP(R[-8]C,热管宽度与厚度对应参照表!R[29]C:R[45]C[2],3,FALSE),IF(R[-9]C=&quot;D8&quot;,VLOOKUP(R[-8]C,热管宽度与厚度对应参照表!R[48]C:R[63]C[2],3,FALSE),IF(R[-9]C=&quot;D2&quot;,VLOOKUP(R[-8]C,热管宽度与厚度对应参照表!R[-9]C:R[-5]C[2],3,FALSE),IF(R[-9]C=&quot;D3&quot;,VLOOKUP(R[-8]C,热管宽度与厚度对应参照表!R[-2]C:R[2]C[2],3,FALSE),IF(R[-9]C=&quot;D4&quot;,VLOOKUP(R[-8]C,热管宽度与厚度对应参照表!R[5]C:R[9]C[2],3,FALSE)))))))"><Data
+      ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">mm</Data></Cell>
+    <Cell ss:StyleID="s129"><Data ss:Type="String">输出“#N/A”时，请重新评估热管应用长度或厚度。</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="27.75">
+    <Cell ss:StyleID="s106"><Data ss:Type="String">热管建议最小折弯半径</Data></Cell>
+    <Cell ss:StyleID="s111"
+     ss:Formula="=IF(R[-10]C=&quot;D5&quot;,VLOOKUP(R[-9]C,热管折弯角度与折弯半径设计参照表!R[11]C:R[25]C[2],3,FALSE),IF(R[-10]C=&quot;D6&quot;,VLOOKUP(R[-9]C,热管折弯角度与折弯半径设计参照表!R[28]C:R[44]C[2],3,FALSE),IF(R[-10]C=&quot;D8&quot;,VLOOKUP(R[-9]C,热管折弯角度与折弯半径设计参照表!R[47]C:R[62]C[2],3,FALSE),IF(R[-10]C=&quot;D2&quot;,VLOOKUP(R[-9]C,热管折弯角度与折弯半径设计参照表!R[-10]C:R[-6]C[2],3,FALSE),IF(R[-10]C=&quot;D3&quot;,VLOOKUP(R[-9]C,热管折弯角度与折弯半径设计参照表!R[-3]C:R[1]C[2],3,FALSE),IF(R[-10]C=&quot;D4&quot;,VLOOKUP(R[-9]C,热管折弯角度与折弯半径设计参照表!R[4]C:R[8]C[2],3,FALSE)))))))"><Data
+      ss:Type="Number">30</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">mm</Data></Cell>
+    <Cell ss:MergeDown="1" ss:StyleID="s340"><Data ss:Type="String">均为建议值，如有更小角度/更小半径需求，请联系供应商评估。</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21.75">
+    <Cell ss:StyleID="s106"><Data ss:Type="String">热管建议最小折弯角度</Data></Cell>
+    <Cell ss:StyleID="s111"
+     ss:Formula="=IF(R[-11]C=&quot;D5&quot;,VLOOKUP(R[-10]C,热管折弯角度与折弯半径设计参照表!R[10]C:R[24]C[2],2,FALSE),IF(R[-11]C=&quot;D6&quot;,VLOOKUP(R[-10]C,热管折弯角度与折弯半径设计参照表!R[27]C:R[43]C[2],2,FALSE),IF(R[-11]C=&quot;D8&quot;,VLOOKUP(R[-10]C,热管折弯角度与折弯半径设计参照表!R[46]C:R[61]C[2],2,FALSE),IF(R[-11]C=&quot;D2&quot;,VLOOKUP(R[-10]C,热管折弯角度与折弯半径设计参照表!R[-11]C:R[-7]C[2],2,FALSE),IF(R[-11]C=&quot;D3&quot;,VLOOKUP(R[-10]C,热管折弯角度与折弯半径设计参照表!R[-4]C:RC[2],2,FALSE),IF(R[-11]C=&quot;D4&quot;,VLOOKUP(R[-10]C,热管折弯角度与折弯半径设计参照表!R[3]C:R[7]C[2],2,FALSE)))))))"><Data
+      ss:Type="String">90°</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">mm</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s98"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s106"><Data ss:Type="String">热管无效端长度</Data></Cell>
+    <Cell ss:StyleID="s111"
+     ss:Formula="=IF(R[-11]C&gt;2.2,IF(R[-12]C=&quot;D5&quot;,10,IF(R[-12]C=&quot;D6&quot;,11.5,IF(R[-12]C=&quot;D8&quot;,13))),IF(R[-12]C=&quot;D2&quot;,3.5,IF(R[-12]C=&quot;D3&quot;,4,IF(R[-12]C=&quot;D4&quot;,6.5,IF(R[-12]C=&quot;D5&quot;,7.5,IF(R[-12]C=&quot;D6&quot;,8.5,IF(R[-12]C=&quot;D8&quot;,10)))))))"><Data
+      ss:Type="Number">8.5</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">mm</Data></Cell>
+    <Cell ss:MergeDown="1" ss:StyleID="m933343120"><Data ss:Type="String">两个均为传热死区,热管布局时，建议不和热源区域接触。</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21.75">
+    <Cell ss:StyleID="s106"><Data ss:Type="String">热管基准端长度</Data></Cell>
+    <Cell ss:StyleID="s111"
+     ss:Formula="=IF(R[-12]C&gt;2.2,IF(R[-13]C=&quot;D5&quot;,3,IF(R[-13]C=&quot;D6&quot;,3,IF(R[-13]C=&quot;D8&quot;,7))),IF(R[-13]C=&quot;D2&quot;,3.5,IF(R[-13]C=&quot;D3&quot;,3.5,IF(R[-13]C=&quot;D4&quot;,4,IF(R[-13]C=&quot;D5&quot;,5,IF(R[-13]C=&quot;D6&quot;,5.5,IF(R[-13]C=&quot;D8&quot;,6)))))))"><Data
+      ss:Type="Number">5.5</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">mm</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="s98"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21.75">
+    <Cell ss:StyleID="s106"><Data ss:Type="String">热管成本</Data></Cell>
+    <Cell ss:StyleID="s111"
+     ss:Formula="=IF(R[-14]C=&quot;D5&quot;,R[23]C,IF(R[-14]C=&quot;D6&quot;,R[24]C,IF(R[-14]C=&quot;D8&quot;,R[25]C)))"><Data
+      ss:Type="Number">5.44</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">￥</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">/</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21.75">
+    <Cell ss:StyleID="s106"><Data ss:Type="String">段差延伸段设计最小长度L</Data></Cell>
+    <Cell ss:StyleID="s111" ss:Formula="=IF(R[-11]C&gt;15,&quot;段差高度过大，重新评估&quot;,R[-11]C*2)"><Data
+      ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">mm</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">/</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="23.25">
+    <Cell ss:StyleID="s106"><Data ss:Type="String">建议热管毛细结构</Data></Cell>
+    <Cell ss:StyleID="s111" ss:Formula="=IF(R[-15]C&gt;2.2,R[12]C[2],R[13]C[2])"><Data
+      ss:Type="String">Fiber</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="String">/</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">/</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s138"/>
+    <Cell ss:StyleID="s137"/>
+    <Cell ss:StyleID="s138"/>
+    <Cell ss:StyleID="s138"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:StyleID="s131"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="29.25">
+    <Cell ss:Index="6" ss:StyleID="s138"/>
+    <Cell ss:StyleID="s137"/>
+    <Cell ss:StyleID="s138"/>
+    <Cell ss:StyleID="s138"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="29.25">
+    <Cell ss:Index="6" ss:StyleID="s138"/>
+    <Cell ss:StyleID="s137"/>
+    <Cell ss:StyleID="s138"/>
+    <Cell ss:StyleID="s138"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="29.25">
+    <Cell ss:Index="6" ss:StyleID="s138"/>
+    <Cell ss:StyleID="s137"/>
+    <Cell ss:StyleID="s138"/>
+    <Cell ss:StyleID="s138"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="29.25">
+    <Cell ss:Index="6" ss:StyleID="s138"/>
+    <Cell ss:StyleID="s137"/>
+    <Cell ss:StyleID="s138"/>
+    <Cell ss:StyleID="s138"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="29.25">
+    <Cell ss:Index="6" ss:StyleID="s138"/>
+    <Cell ss:StyleID="s137"/>
+    <Cell ss:StyleID="s138"/>
+    <Cell ss:StyleID="s138"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="29.25">
+    <Cell ss:Index="6" ss:StyleID="s138"/>
+    <Cell ss:StyleID="s137"/>
+    <Cell ss:StyleID="s138"/>
+    <Cell ss:StyleID="s138"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s137"/>
+    <Cell ss:StyleID="s138"/>
+    <Cell ss:StyleID="s138"/>
+    <Cell ss:StyleID="s137"/>
+    <Cell ss:StyleID="s138"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s137"/>
+    <Cell ss:StyleID="s138"/>
+    <Cell ss:StyleID="s138"/>
+    <Cell ss:StyleID="s137"/>
+    <Cell ss:StyleID="s138"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s137"><Data ss:Type="String">D2</Data></Cell>
+    <Cell ss:StyleID="s138" ss:ArrayRange="RC"
+     ss:Formula="=VLOOKUP(R[-24]C&amp;R[-23]C,IF({1,0},热管Qmax数据库!R[-25]C[-1]:R[-11]C[-1]&amp;热管Qmax数据库!R[-25]C:R[-11]C,热管Qmax数据库!R[-25]C[1]:R[-11]C[1]),2,FALSE)"><Data
+      ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s138"><Data ss:Type="String">W</Data></Cell>
+    <Cell ss:StyleID="s137"/>
+    <Cell ss:StyleID="s138"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s137"><Data ss:Type="String">D3</Data></Cell>
+    <Cell ss:StyleID="s138" ss:ArrayRange="RC"
+     ss:Formula="=VLOOKUP(R[-25]C&amp;R[-24]C,IF({1,0},热管Qmax数据库!R[-26]C[2]:R[-12]C[2]&amp;热管Qmax数据库!R[-26]C[3]:R[-12]C[3],热管Qmax数据库!R[-26]C[4]:R[-12]C[4]),2,FALSE)"><Data
+      ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s138"><Data ss:Type="String">W</Data></Cell>
+    <Cell ss:StyleID="s137"/>
+    <Cell ss:StyleID="s138"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s137"><Data ss:Type="String">D4</Data></Cell>
+    <Cell ss:StyleID="s138" ss:ArrayRange="RC"
+     ss:Formula="=VLOOKUP(R[-26]C&amp;R[-25]C,IF({1,0},热管Qmax数据库!R[-27]C[5]:R[-13]C[5]&amp;热管Qmax数据库!R[-27]C[6]:R[-13]C[6],热管Qmax数据库!R[-27]C[7]:R[-13]C[7]),2,FALSE)"><Data
+      ss:Type="Number">7.5</Data></Cell>
+    <Cell ss:StyleID="s138"><Data ss:Type="String">W</Data></Cell>
+    <Cell ss:StyleID="s138"/>
+    <Cell ss:StyleID="s138"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s137"><Data ss:Type="String">D5</Data></Cell>
+    <Cell ss:StyleID="s138" ss:ArrayRange="RC"
+     ss:Formula="=VLOOKUP(R[-27]C&amp;R[-26]C,IF({1,0},热管Qmax数据库!R[-28]C[8]:R[46]C[8]&amp;热管Qmax数据库!R[-28]C[9]:R[46]C[9],热管Qmax数据库!R[-28]C[10]:R[46]C[10]),2,FALSE)"><Data
+      ss:Type="Number">12</Data></Cell>
+    <Cell ss:StyleID="s138"><Data ss:Type="String">W</Data></Cell>
+    <Cell ss:StyleID="s137"><Data ss:Type="String">Sintered Powder</Data></Cell>
+    <Cell ss:StyleID="s138"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s137"><Data ss:Type="String">D6</Data></Cell>
+    <Cell ss:StyleID="s138" ss:ArrayRange="RC"
+     ss:Formula="=VLOOKUP(R[-28]C&amp;R[-27]C,IF({1,0},热管Qmax数据库!R[-29]C[11]:R[55]C[11]&amp;热管Qmax数据库!R[-29]C[12]:R[55]C[12],热管Qmax数据库!R[-29]C[13]:R[55]C[13]),2,FALSE)"><Data
+      ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s138"><Data ss:Type="String">W</Data></Cell>
+    <Cell ss:StyleID="s138"><Data ss:Type="String">Fiber</Data></Cell>
+    <Cell ss:StyleID="s138"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s137"><Data ss:Type="String">D8</Data></Cell>
+    <Cell ss:StyleID="s138" ss:ArrayRange="RC"
+     ss:Formula="=VLOOKUP(R[-29]C&amp;R[-28]C,IF({1,0},热管Qmax数据库!R[-30]C[14]:R[49]C[14]&amp;热管Qmax数据库!R[-30]C[15]:R[49]C[15],热管Qmax数据库!R[-30]C[16]:R[49]C[16]),2,FALSE)"><Data
